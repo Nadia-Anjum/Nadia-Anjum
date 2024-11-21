@@ -1,6 +1,6 @@
 # Hi, I'm Nadia Anjum! 🤍
 
-I'm a frontend and web developer** with a background in **multimedia design** and currently studying **web development**.  
+I'm a **frontend and web developer** with a background in **multimedia design** and currently studying **web development**.  
 I'm a **calm, positive, and goal-oriented problem-solver**, passionate about combining **design** and **programming** to create user-friendly solutions. Whether working solo or in a team, I stay focused and thrive under pressure.  
 
 ## My Skills & Tools 💫
