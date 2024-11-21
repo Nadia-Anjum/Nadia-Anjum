@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nadia Anjum! 🤍
 
-<!--
-**Nadia-Anjum/Nadia-Anjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend and web developer** with a background in **multimedia design** and currently studying **web development**.  
+I'm a **calm, positive, and goal-oriented problem-solver**, passionate about combining **design** and **programming** to create user-friendly solutions. Whether working solo or in a team, I stay focused and thrive under pressure.  
 
-Here are some ideas to get you started:
+## My Skills & Tools 💫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development 🌐
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, PWA, Bootstrap, Tailwind CSS 🌐, 🎨  
+- **Backend**: PHP, .NET, MySQL, MongoDB, Node.js, Mongoose 🖥️, 🔧  
+- **Frameworks**: React, Remix, Vue, Nuxt.js ⚛️, 🔲  
+- **CMS**: WordPress, Umbraco 📝  
+- **Workflow**: Git, GitGraph, Fork 🔄, 🪓  
+
+### UX & UI Design 🎨 
+- **Design Tools:** Adobe CC (Illustrator, Photoshop, InDesign, Express, XD), Figma 🎨, 🖌️  
+
+### SEO 📈
+- **Tools & Strategies:** Klaviyo, Google Analytics, Ahrefs, link building, affiliates 📊, 🔍, 💡  
+
+
+### Let's Connect! 🤝
+I’d love to hear from you! If you are interested or have a question, feel free to send me a message.
+- 📧 **Email:** diaanjum@outlook.dk  
+- 💼 **Portfolio:** [https://nadiaanjum.dk/](#)
+- 💻 **LinkedIn:** [https://www.linkedin.com/in/nadia-anjum02/](#) 
+
