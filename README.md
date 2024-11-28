@@ -12,10 +12,10 @@ I'm a **calm, positive, and goal-oriented problem-solver**, passionate about com
 - **CMS**: WordPress, Umbraco 📝  
 - **Workflow**: Git, GitGraph, Fork 🔄, 🪓  
 
-### UX & UI Design 🎨 
+### UX & UI Design (Extra) 🎨 
 - **Design Tools:** Adobe CC (Illustrator, Photoshop, InDesign, Express, XD), Figma 🎨, 🖌️  
 
-### SEO 📈
+### SEO (Extra) 📈
 - **Tools & Strategies:** Klaviyo, Google Analytics, Ahrefs, link building, affiliates 📊, 🔍, 💡  
 
 
