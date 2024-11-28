@@ -5,7 +5,7 @@ I'm a **calm, positive, and goal-oriented problem-solver**, passionate about com
 
 ## My Skills & Tools 💫
 
-### Web Development 🌐
+### Web Development (Main focus) 🌐
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, PWA, Bootstrap, Tailwind CSS 🌐, 🎨  
 - **Backend**: PHP, .NET, MySQL, MongoDB, Node.js, Mongoose 🖥️, 🔧  
 - **Frameworks**: React, Remix, Vue, Nuxt.js ⚛️, 🔲  
